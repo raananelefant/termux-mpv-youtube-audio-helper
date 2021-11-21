@@ -14,8 +14,7 @@ In Termux:
 
 Usage:
 
-1) Share magnet/youtube url
+1) Share youtube url
 2) In share menu, choose Termux
-3) Follow script instructions
 
 Enjoy!
