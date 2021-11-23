@@ -17,4 +17,5 @@ Usage:
 2) In share menu, choose Termux
 
 ***Note*** You will most likely need to rerun youtube-dl-fix.sh after every time youtube-dl upgrades
+
 Enjoy!
