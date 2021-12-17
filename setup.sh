@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+mkdir ../bin ../usr/bin -p
 pkg install -y python mpv termux-api curl
 chmod a+x ./*.sh
 curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /data/data/com.termux/files/usr/bin/youtube-dl
