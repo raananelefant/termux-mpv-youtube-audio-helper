@@ -7,4 +7,4 @@ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /data/data/com.termux/f
 ./youtube-dl-fix.sh
 chmod a+x /data/data/com.termux/files/usr/bin/youtube-dl
 cp termux-url-opener /data/data/com.termux/files/home/bin/
-echo 'Done installing! Please refer to README.md for usage instructions
+echo 'Done installing! Please refer to README.md for usage instructions'
